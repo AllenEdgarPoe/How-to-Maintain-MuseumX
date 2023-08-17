@@ -37,3 +37,10 @@
 - 사용자 db (guest.csv) 파일 관리 : 10일 지나면 expire 되는 거 확인하기
 
 
+---
+
+<8/17>
+CLI(Command line interface)
+CRLF / LF
+XML serialize / deserialize 
+OOP 
